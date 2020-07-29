@@ -4,8 +4,6 @@
 
 Please browse my repositories and buy my books:
 
-![Livros {w=40%}](livros.png)
-
 :closed_book: [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
 :information_source: [browse Spring repos](https://github.com/boaglio?tab=repositories&q=spring)
 
