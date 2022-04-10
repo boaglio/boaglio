@@ -16,4 +16,6 @@ Please browse my repositories and buy my books:
 :orange_book: [Play Framework: Java para web sem Servlets e com diversão](https://www.casadocodigo.com.br/products/livro-play-framework-java)
 :information_source: [browse Play Framework repos](https://github.com/boaglio?tab=repositories&q=play)
 
+:coffee: [browse Java repos](https://github.com/boaglio?tab=repositories&q=java)
+
 [![Blog Badge](https://img.shields.io/badge/Blog-boaglio.com-black)](https://boaglio.com)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/boaglio)](https://twitter.com/boaglio)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boaglio)](https://www.linkedin.com/in/boaglio)
