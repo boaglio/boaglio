@@ -20,7 +20,7 @@ Please browse my repositories and buy my books:
 
 :microphone: [Canal do YouTube DevMultitask](https://youtube.com/DevMultitask)
 
-:coffee: [JUG leader](https://github.com/meetupjavasaopaulo)
+:coffee: [JUG leader](https://github.com/meetupjavasaopaulo) - [Java Meetup SP](https://www.meetup.com/sao-paulo-java-meetup/)
 
 :palm_tree: [Link Tree](https://linktr.ee/boaglio)
 
