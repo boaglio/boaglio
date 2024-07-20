@@ -1,6 +1,6 @@
 ### Fernando Boaglio
 
- Paulistano, nerd, hacking :computer:, devops, Java, Spring Boot, Python, Jenkins, MongoDB, PHP, JavaScript, Oracle, swim :swimmer:,TV series :tv:, movies :movie_camera:, gastronomy :spaghetti:, photography :camera: and more :grin: 
+Paulistano, nerd :computer:, hacking, developer, Java, Spring Boot, Jenkins, MongoDB, Oracle and don't give up skeleton! :grin: 
 
 Please browse my repositories and buy my books:
 
