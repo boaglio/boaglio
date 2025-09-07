@@ -20,8 +20,15 @@ Please browse my repositories and buy my books:
 
 :microphone: [Canal do YouTube DevMultitask](https://youtube.com/DevMultitask)
 
-:coffee: [JUG leader](https://github.com/meetupjavasaopaulo) - [Java Meetup SP](https://www.meetup.com/sao-paulo-java-meetup/)
+:coffee: [Java Ring](https://youtube.com/@JavaRing) 
+
+:coffee: [JUG leader - Java Meetup SP](https://linktr.ee/javameetupsp)
 
 :palm_tree: [Link Tree](https://linktr.ee/boaglio)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=boaglio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=boaglio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Blog Badge](https://img.shields.io/badge/Blog-boaglio.com-black)](https://boaglio.com)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/boaglio)](https://twitter.com/boaglio)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boaglio)](https://www.linkedin.com/in/boaglio)
+
