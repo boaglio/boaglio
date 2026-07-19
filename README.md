@@ -24,7 +24,7 @@ Paulistano, nerd :computer: and Java developer. Author of **4 published books**,
 
 Please browse my repositories and buy my books!
 
-[![My books](./livros.png)](https://www.casadocodigo.com.br/collections/vendors?q=Fernando%20Boaglio)
+![My books](./livros.png)
 
 | Book | Repos |
 |------|-------|
@@ -48,7 +48,7 @@ Please browse my repositories and buy my books!
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=boaglio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boaglio&layout=compact&theme=onedark&langs_count=8)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=boaglio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=boaglio&layout=compact&theme=onedark&langs_count=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=boaglio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
