@@ -51,4 +51,4 @@ Please browse my repositories and buy my books!
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=boaglio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=boaglio&layout=compact&theme=onedark&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=boaglio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=boaglio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
