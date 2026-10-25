@@ -1,4 +1,3 @@
-<img align="right" width="180" src="./foto-linkedin.jpg" alt="Fernando Boaglio" />
 
 # 👋 Fernando Boaglio
 
