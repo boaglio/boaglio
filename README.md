@@ -13,6 +13,7 @@ Paulistano, nerd :computer: and Java developer. Author of **4 published books**,
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -27,7 +28,8 @@ Please browse my repositories and buy my books!
 
 | Book | Repos |
 |------|-------|
-| :blue_book: [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot) | [browse Spring repos](https://github.com/boaglio?tab=repositories&q=spring) |
+| :green_book: [Spring AI: Construindo aplicações de IA Generativa de ponta a ponta ](https://www.casadocodigo.com.br/products/livro-spring-ai) | [browse Spring AI repos](https://github.com/boaglio?tab=repositories&q=spring-ai) |
+| :blue_book: [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot) | [browse Spring Boot repos](https://github.com/boaglio?tab=repositories&q=spring) |
 | :closed_book: [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins) | [browse Jenkins repos](https://github.com/boaglio?tab=repositories&q=jenkins) |
 | :green_book: [MongoDB: Construa novas aplicações com novas tecnologias](https://www.casadocodigo.com.br/products/livro-mongodb) | [browse MongoDB repos](https://github.com/boaglio?tab=repositories&q=mongo) |
 | :orange_book: [Play Framework: Java para web sem Servlets e com diversão](https://www.casadocodigo.com.br/products/livro-play-framework-java) | [browse Play repos](https://github.com/boaglio?tab=repositories&q=play) |
